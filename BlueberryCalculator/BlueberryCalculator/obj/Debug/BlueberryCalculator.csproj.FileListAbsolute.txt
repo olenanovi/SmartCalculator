@@ -1,0 +1,13 @@
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\bin\Debug\BlueberryCalculator.exe.config
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\bin\Debug\BlueberryCalculator.exe
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\bin\Debug\BlueberryCalculator.pdb
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\obj\Debug\BlueberryCalculator.CalcForm.resources
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\obj\Debug\BlueberryCalculator.Properties.Resources.resources
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\obj\Debug\BlueberryCalculator.csproj.GenerateResource.Cache
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\obj\Debug\BlueberryCalculator.csproj.CoreCompileInputs.cache
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\obj\Debug\BlueberryCalculator.exe
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\obj\Debug\BlueberryCalculator.pdb
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\bin\Debug\AnalaizerClass.dll
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\bin\Debug\CalcClass.dll
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\obj\Debug\BlueberryCalculator.csprojAssemblyReference.cache
+C:\Olena\Project\GitHub\Blueberries\BlueberryCalculator\BlueberryCalculator\obj\Debug\BlueberryCalculator.csproj.CopyComplete
