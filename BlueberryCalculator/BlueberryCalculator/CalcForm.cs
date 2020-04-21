@@ -81,12 +81,7 @@ namespace BlueberryCalculator
                                 textBoxExpression.Text += "m";
                                 break;
 
-                        }   
-                        /*    
-                            textBoxExpression.Text = textBoxExpression.Text.EndsWith("m") ?
-                                textBoxExpression.Text.Substring(0, textBoxExpression.Text.Length - 1) + "p"
-                                : textBoxExpression.Text.Substring(0, textBoxExpression.Text.Length - 1) + "m";
-                        */                
+                        }             
                     }
 
                     clickTimeSpan = Stopwatch.StartNew();
@@ -108,7 +103,6 @@ namespace BlueberryCalculator
 
         private void buttonEqual_Click(object sender, EventArgs e)
         {
-            //MessageBox.Show(":P");
 
             string expression = textBoxExpression.Text.Replace('÷', '/').Replace('×', '*');
 
@@ -166,14 +160,10 @@ namespace BlueberryCalculator
                     {
                         buffer = CalcClass.Math.Add(result, buffer);
                     }
-                    //Lion's calculation
-                    //buffer = MethodAddingTwoNumber(textBoxResult.Text + buffer)
                 }
             }
             else
                 MessageBox.Show("The field of result is empty. Nothing to add. Memory contained " + buffer);
-            // залишати в буфері старе число? тобто якщо пусте поле результату, але
-            // є число в буфері, то робити буфер + 0 ????
         }
 
     }
